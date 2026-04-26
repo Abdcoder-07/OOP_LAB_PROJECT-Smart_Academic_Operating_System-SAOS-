@@ -9,8 +9,8 @@
 | Name | Student ID |
 |------|------------|
 | **Tahir Hussain** | **25K-0532** |
-| **Abdullah Amir Farooqi** | **25K-0868** |
-| **Ali shanawar** | **25K-0564** |
+| **Abdullah Aamir Farooqui** | **25K-0868** |
+| **Ali Shanawar** | **25K-0564** |
 
 **Course:** Object-Oriented Programming (CS2001) — Lab Semester Project
 
