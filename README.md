@@ -25,7 +25,7 @@ Built without STL containers (no `vector`, no `map`), the system instead uses ra
 ---
 
 ##  Key Use Cases and Testing
-##  Key Use Cases
+###  Key Use Cases
 
 ### 1.  Student Enrollment & Course Management
 Students can browse available courses and self-enroll (up to 5 courses). Admins can also enroll or remove courses on a student's behalf. Duplicate enrollment and over-enrollment are both guarded with validation errors.
@@ -50,7 +50,7 @@ The system enforces strict access boundaries. Faculty can only mark attendance a
 
 ---
 
-#Testing:
+### Testing:
 
 ### 1.  Student Enrollment & Course Management
 Students can browse available courses and self-enroll (up to 5 courses). Admins can also enroll or remove courses on a student's behalf. Duplicate enrollment and over-enrollment are both guarded with validation errors.
